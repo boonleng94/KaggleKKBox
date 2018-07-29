@@ -2,7 +2,7 @@
 NTU CZ4041 - Machine Learning Assignment
 
 
-Assignment Details:
+## Assignment Details:
 
 
 Select 1 of many given Kaggle competitions or research projects and work in a group of 4-5 members on the selected project.
@@ -11,7 +11,7 @@ Select 1 of many given Kaggle competitions or research projects and work in a gr
 Any programming language can be used, along with any open-source Machine Learning toolbox.
 
 
-Submission details: 
+## Submission details: 
 
 
 1. A .cvs file of prediction results
@@ -23,9 +23,7 @@ Submission details:
 3. Source codes with readme
 
 
-
-
-Chosen Challenge: 
+## Chosen Challenge: 
 
 
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge#evaluation
