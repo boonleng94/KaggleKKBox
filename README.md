@@ -23,7 +23,7 @@ Any programming language can be used, along with any open-source Machine Learnin
 3. Source codes with readme
 
 
-## Chosen Challenge: 
+## Chosen Challenge:  KKBox
 
 
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge#evaluation
